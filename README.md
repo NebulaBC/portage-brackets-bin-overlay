@@ -10,7 +10,7 @@ Configuration
 /etc/layman/layman.cfg add:
 
     overlays: ...
-              https://github.com/gbevan/portage-brackets-bin-overlay/raw/master/repository.xml
+              https://github.com/NebulaBC/portage-brackets-bin-overlay/raw/master/repository.xml
 
 ```bash
 layman -f -a gbevan-brackets
